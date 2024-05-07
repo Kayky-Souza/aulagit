@@ -1,3 +1,3 @@
 # AULAGIT
 Repositório para atividades e trabalhos da turma de TI para Internet do CEPT SENAI BALSAS
-alunos -> kayky de souza custodio
+aluno -> kayky de souza custodio
